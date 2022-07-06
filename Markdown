@@ -1,0 +1,5 @@
+New Servlet
+1)Rt click on Java
+2)Servlet
+3)enter URL ex (com.ust.web)
+4)this will give an
