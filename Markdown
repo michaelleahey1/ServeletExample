@@ -9,3 +9,4 @@ servers that host applications accessed by means of a request-response programmi
 Although servlets can respond to any type of request,
 they are commonly used to extend the applications hosted by web servers.
 
+Sometimes you need to copy and paste your code, sometimes it looks right but the IDE doesn't like it.
